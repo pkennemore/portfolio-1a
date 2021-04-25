@@ -1,1 +1,38 @@
 This is some content that I was playing with.
+<table>
+  <thead>
+    <tr>
+      <th width="200">Criteria </th>
+      <th>Good (5 points)</th>
+      <th width="150">Fair (3)</th>
+      <th width="150">Below average (1)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Relevancy </td>
+      <td>Photo matches selected category.</td>
+      <td>Photo fits but might be better in another category.</td>
+      <td>Photo does not fit category.</td>
+    </tr>
+    <tr>
+      <td>Technical Quality</td>
+      <td>Photo is in focus, lighting and composition is good. </td>
+      <td>Not in focus or lighting and composition could be improved. </td>
+      <td>Not in focus and lighting along with composition needs improvement. </td>
+    </tr>
+    <tr>
+      <td>Creativity</td>
+      <td>Photo is unique, interesting and original. </td>
+      <td>Photo is missing one crucial quality: unique, interesting and original.</td>
+      <td>Photo is missing two or more crucial quality: unique, interesting and original.</td>
+    </tr>
+
+    <tr>
+      <td>Overall impression</td>
+      <td>Photo holds the viewer’s attention and leaves and impression.</td>
+      <td>Photo is notable, but does not match up to those judged Good. </td>
+      <td>The photo does not grab the view’s attention.</td>
+    </tr>
+  </tbody>
+</table>
